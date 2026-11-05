@@ -50,6 +50,7 @@ This library is not a hosted authentication service, a complete identity platfor
 ## Product Information
 
 - **Product descriptions and listed editions:** https://1173803826934.gumroad.com/
+- **DevHub Project Showcase (Thai):** https://devhub.in.th/th/showcase/wwertyu002-sys/wonderland-auth-core/
 - **License documentation landing page:** https://wonderland-auth-licenses.pages.dev/
 - **Support and licensing questions:** wonderlandai.support@gmail.com
 
